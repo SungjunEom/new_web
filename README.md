@@ -1,7 +1,7 @@
 다운로드 후
 ===========
 
-### 1. MainPage 디렉토리에 들어간 후 `npm install`
+### 1. projectmain 디렉토리에 들어간 후 `npm install`
 ### 2. server 디렉토리에 들어간 후 `npm install`
 ### 3. Linux or Windows
 * (Linux) `./deploy.sh` 실행 
